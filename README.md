@@ -16,7 +16,7 @@
   <img align="right" alt="Shadow-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/477231894149332993/824434606627225640/rip_felps.png">
 </div>
   
-  ##
+  ###
  
 <div> 
  	<a href="https://www.twitch.tv/sirshadoow_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
