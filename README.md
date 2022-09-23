@@ -13,7 +13,7 @@
   <img align="center" alt="Ber-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ber-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ber-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Shadow-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/477231894149332993/824434606627225640/rip_felps.png">
+  <img align="right" alt="Shadow-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/477231894149332993/824433284947116072/felpinho_love.png">
 </div>
   
   ###
