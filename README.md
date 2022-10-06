@@ -1,4 +1,4 @@
-### Olá! Meu nome é Bernardo Cusmanich, sou desenvolvedor Front-end!
+### Olá! Meu nome é Bernardo Cusmanich, sou desenvolvedor Front-end. Atualmente cursando Licenciatura da Computação!
 
 <div align="center">
   <a href="https://github.com/darkevolutio">
