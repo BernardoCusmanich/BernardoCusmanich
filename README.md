@@ -27,9 +27,13 @@ Sou desenvolvedor FullStack, atualmente estou cursando Licenciatura da Computaç
   
   ## Entre em contato comigo:
  
-<div> 
-  <a href = "mailto:bernardoxd2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bernardo-cusmanich-819b8a201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<p align="left">
+  <a target="_blank" href="https://www.linkedin.com/in/bernardo-cusmanich-819b8a201/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
+   <a target="_blank" href="mailto:bernardoxd2@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+</p>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
