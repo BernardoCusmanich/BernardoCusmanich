@@ -2,13 +2,15 @@
 
 Sou desenvolvedor FullStack, atualmente estou cursando Licenciatura da Computação e pretendo me aprofundar nas areas de Desenvolvimento Web e Programação!
 
-## Meu Desempenho no github:
+## Meu Desempenho no Github:
 
-<div align="center">
+<div>
   <a href="https://github.com/BernardoCusmanich">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BernardoCusmanich&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoCusmanich&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+## Linguagens que uso:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Ber-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ber-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -17,10 +19,13 @@ Sou desenvolvedor FullStack, atualmente estou cursando Licenciatura da Computaç
   <img align="center" alt="Ber-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ber-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ber-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Shadow-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/477231894149332993/824433284947116072/felpinho_love.png">
+</div><br>
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoCusmanich&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  ###
+  ## Entre em contato comigo:
  
 <div> 
   <a href = "mailto:bernardoxd2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
