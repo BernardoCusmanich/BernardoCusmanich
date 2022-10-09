@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Bernardo Cusmanich!
 
-Sou desenvolvedor FullStack. Atualmente estou cursando Licenciatura da Computação e pretendo me aprofundar nas areas de Desenvolvimento Web e Programação!
+Sou desenvolvedor FullStack, atualmente estou cursando Licenciatura da Computação e pretendo me aprofundar nas areas de Desenvolvimento Web e Programação!
 
 
 <div align="center">
