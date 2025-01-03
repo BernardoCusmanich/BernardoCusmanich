@@ -2,13 +2,6 @@
 
 Sou desenvolvedor FullStack, atualmente estou cursando Licenciatura da Computação e pretendo me aprofundar nas areas de Desenvolvimento Web e Programação!
 
-## Meu Desempenho no Github:
-
-<div>
-  <a href="https://github.com/BernardoCusmanich">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BernardoCusmanich&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 ## Linguagens e bibliotecas que uso:
 
 <div style="display: inline_block"><br>
