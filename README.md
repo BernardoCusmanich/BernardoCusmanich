@@ -1,29 +1,34 @@
-### Olá! Meu nome é Bernardo Cusmanich!
+# Bernardo Cusmanich
 
-Sou desenvolvedor FullStack, atualmente estou cursando Licenciatura da Computação e pretendo me aprofundar nas areas de Desenvolvimento Web e Programação!
+Desenvolvedor Full-Stack em São Paulo. Construo SaaS, automações e integrações — do banco de dados ao deploy.
 
-## Linguagens e bibliotecas que uso:
+Hoje desenvolvo a **SGOL**, uma plataforma SaaS multi-tenant de atendimento e automação via WhatsApp, em produção. Atuo na arquitetura, no back-end com filas (BullMQ + Redis), no front-end em Next.js e na infraestrutura (Docker, VPS, Vercel).
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ber-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ber-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Ber-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ber-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ber-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ber-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ber-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div><br>
+Estudante de Ciência da Computação na UNINTER.
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoCusmanich&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-  ## Entre em contato comigo:
- 
+## Stack
+
+**Principal:** TypeScript · Next.js · React · Node.js · Tailwind CSS · Prisma · PostgreSQL (Supabase)<br>
+**Infra:** Docker · Redis / BullMQ · Vercel · Linux / VPS · Cloudflare<br>
+**Também uso:** C · C# · Python
+
 <p align="left">
-  <a target="_blank" href="https://www.linkedin.com/in/bernardo-cusmanich-819b8a201/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-   <a target="_blank" href="mailto:bernardoxd2@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+<img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+<img alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+<img alt="Tailwind CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+<img alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+<img alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+<img alt="Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
+<img alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</p>
+
+## Contato
+
+<p align="left">
+<a target="_blank" href="https://www.linkedin.com/in/bernardo-cusmanich-819b8a201/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a target="_blank" href="mailto:bernardoxd2@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
