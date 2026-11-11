@@ -4,7 +4,7 @@ Desenvolvedor Full-Stack em São Paulo. Construo SaaS, automações e integraç�
 
 Hoje desenvolvo a **SGOL**, uma plataforma SaaS multi-tenant de atendimento e automação via WhatsApp, em produção. Atuo na arquitetura, no back-end com filas (BullMQ + Redis), no front-end em Next.js e na infraestrutura (Docker, VPS, Vercel).
 
-Estudante de Ciência da Computação na UNINTER.
+Ciência da Computação — UNINTER (em andamento)
 
 ## Stack
 
